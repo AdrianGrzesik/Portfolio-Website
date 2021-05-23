@@ -31,15 +31,6 @@ const portfolios = [
         link2: 'https://github.com/AdrianGrzesik/Portfolio-Website',
         title: 'Portfolio ',
         text: 'Website in ReactJS'
-    },
-    {
-        id: 4,
-        category: 'Node.JS',
-        image: node,
-        link1: 'https://github.com/AdrianGrzesik/Login-Register-Service',
-        link2: 'https://github.com/AdrianGrzesik/Login-Register-Service',
-        title: 'Login/Register server',
-        text: 'First Node.js project with services'
     }
 ]
 
